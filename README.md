@@ -13,7 +13,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/c-puthane/](https://www.linkedin.com/in/c-puthane/)
 
-- ⚡ Fun fact **I once taught a chatbot to tell me jokes, but it got so sassy that even Siri asked for its autograph! 🤖**
+- ⚡ Fun fact **Former Profit Chaser turned Algorithm Enthusiast! I once chased profits like a pro, but now, I'm on a wild adventure chasing algorithms! 
+I went from managing employees to managing lines of code – now, the only meetings I schedule are with my computer! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
