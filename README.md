@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandana P</h1>
 <h3 align="center">Accomplished Entrepreneur with a Finance Master's and a Strong Interest in Emerging Technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanda-p" alt="chanda-p" /></a> </p>
-
 - 🌱 I’m currently learning **The art of reverse-engineering unicorn ideas from the dreams of AI, and turning them into code and reality. Stay tuned for the inevitable robot uprising – just kidding... or am I?**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chanda-p](https://github.com/Chanda-p)
